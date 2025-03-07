@@ -5,7 +5,9 @@ This is a multiplayer Pong game built using JavaScript, with Node.js and Express
 🛠️ Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express
+
 Real-time Communication: Socket.IO
 
 🔥 Features:
